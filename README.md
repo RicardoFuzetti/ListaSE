@@ -1,5 +1,5 @@
 # ListaSE
-### Descrição
+### Descrição:
 Cálculo de similaridade entre duas listas com MESMO tamanho n utilizando a função do cosseno:
  
 Cos(X,Y) = ... ver arquivo anexo
